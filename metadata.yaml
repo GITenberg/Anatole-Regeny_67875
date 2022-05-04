@@ -1,0 +1,53 @@
+_repo: Anatole-Regeny_67875
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Mikszath, Kalman
+    - Kálmán Mikszáth
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia:
+    - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+    - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
+  illustrator:
+    agent_name: Cserna, Károly
+    alias: Cserna, Karoly
+    birthdate: 1867
+    deathdate: 1944
+    gutenberg_agent_id: '54505'
+    url: http://www.gutenberg.org/2009/agents/54505
+    wikipedia: https://hu.wikipedia.org/wiki/Cserna_K%C3%A1roly
+creator:
+  author:
+    agent_name: Toldy, István
+    alias: Toldy, Istvan
+    birthdate: 1844
+    deathdate: 1879
+    gutenberg_agent_id: '54504'
+    url: http://www.gutenberg.org/2009/agents/54504
+    wikipedia: https://hu.wikipedia.org/wiki/Toldy_Istv%C3%A1n
+description: ''
+gutenberg_issued: '2022-04-19'
+identifiers:
+  gutenberg: '67875'
+  lccn: ca18000864
+language: hu
+pgterms:marc905: 20220408080735toldy
+pgterms:marc906: '1906'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 19th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Anatole: Regény'
+url: http://www.gutenberg.org/ebooks/67875
