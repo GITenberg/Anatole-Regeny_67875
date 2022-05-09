@@ -21,6 +21,9 @@ contributor:
     gutenberg_agent_id: '54505'
     url: http://www.gutenberg.org/2009/agents/54505
     wikipedia: https://hu.wikipedia.org/wiki/Cserna_K%C3%A1roly
+covers:
+- cover_type: archival
+  image_path: 67875-h/images/cover.jpg
 creator:
   author:
     agent_name: Toldy, István
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54504
     wikipedia: https://hu.wikipedia.org/wiki/Toldy_Istv%C3%A1n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67875#Anatole-Regeny
 gutenberg_issued: '2022-04-19'
 identifiers:
   gutenberg: '67875'
